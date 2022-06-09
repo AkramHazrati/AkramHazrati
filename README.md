@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @AkramHazrati
-- 👀 I’m interested in Front End
+- 👀 I’m learning Front End and enjoy it 
 - 🌱 I’m studying Computer Engineering in Shahid Beheshti University
-- 📫 How to reach me hazrati1999a@gmail.com
+
